@@ -33,5 +33,5 @@ pip install customtkinter
 ```
 ### 3. Executar o arquivo.
 ```bash
-python3 gerenciador-de-tarefas.py
+python crud.py
 ```
