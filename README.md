@@ -24,10 +24,9 @@ Para rodar este projeto localmente, você precisará ter o Python instalado em s
 
 ### 1. Clonar o repositório
 ```bash
-git clone git clone [https://github.com/guilhermerovie-dev/gerenciador-de-tarefas-python.git](https://github.com/guilhermerovie-dev/gerenciador-de-tarefas-python.git)
+git clone https://github.com/guilhermerovie-dev/gerenciador-de-tarefas-python.git
 cd gerenciador-de-tarefas-python
 ```
-
 
 ### 2. Instalar as dependências
 ```bash
