@@ -34,5 +34,5 @@ pip install customtkinter
 ```
 ### 3. Rodar o aplicativo
 ```bash
-python gerenciador-de-tarefas.py
+python3 gerenciador-de-tarefas.py
 ```
