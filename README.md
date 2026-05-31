@@ -19,20 +19,19 @@ Um aplicativo de desktop moderno para gerenciamento de tarefas diárias, desenvo
 
 
 ## Como Executar o Projeto
+### Certifique-se de ter o Python instalado na sua máquina.
 
-Para rodar este projeto localmente, você precisará ter o Python instalado em sua máquina.
-
-### 1. Clonar o repositório
+### 1. Clonar o repositório.
 ```bash
 git clone https://github.com/guilhermerovie-dev/gerenciador-de-tarefas-python.git
 cd gerenciador-de-tarefas-python
 ```
 
-### 2. Instalar as dependências
+### 2. Instalar as dependências.
 ```bash
 pip install customtkinter
 ```
-### 3. Rodar o aplicativo
+### 3. Executar o arquivo.
 ```bash
 python3 gerenciador-de-tarefas.py
 ```
