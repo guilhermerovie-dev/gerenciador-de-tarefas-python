@@ -7,6 +7,7 @@ Um aplicativo de desktop moderno para gerenciamento de tarefas diárias, desenvo
 * **Adicionar Tarefas:** Digite o nome da tarefa e clique em "Adicionar" ou simplesmente aperte **Enter**.
 * **Concluir Tarefas:** Digite o número da tarefa desejada para marcá-la com um indicador `[X]` visual.
 * **Remover Tarefas:** Digite o número da tarefa para excluí-la definitivamente da lista.
+* **Persistência de Dados (Salvamento Automático):** Suas tarefas são salvas automaticamente em um arquivo local (`tarefas.json`). Você pode fechar o aplicativo e reabri-lo sem perder nenhuma informação.
 * **Interface Moderna:** Sistema visual com suporte nativo a rolagem para listas grandes (Scrollable Frame) e tratamento de erros com alertas visuais (`messagebox`).
 
 
@@ -15,6 +16,8 @@ Um aplicativo de desktop moderno para gerenciamento de tarefas diárias, desenvo
 
 * [Python](https://www.python.org/)
 * [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+* **JSON** (Módulo nativo do Python para armazenamento local de dados)
+* **OS** (Módulo nativo do Python para manipulação de arquivos do sistema)
 * Tkinter / Messagebox (Tratamento de alertas nativos)
 
 
