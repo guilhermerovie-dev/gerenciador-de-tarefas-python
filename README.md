@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas
 
-Um aplicativo de desktop moderno para gerenciamento de tarefas diárias, desenvolvido em Python utilizando a biblioteca **CustomTkinter**.
+Um projeto de gerenciamento de tarefas diárias, desenvolvido em Python utilizando a biblioteca **CustomTkinter**.
 
 ## Funcionalidades
 
